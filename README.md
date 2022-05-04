@@ -1,4 +1,4 @@
-# Sum of elements by threads :
+# Sum of elements by threads 👩‍💻
 ### Intro
 Nesse repositório está incluído um código escrito na linguagem C, que trabalha com múltiplas threads. 
 
